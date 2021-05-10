@@ -10,6 +10,6 @@
 </p>
 
 <details>
-  <summary><b>:telescope: 2020 goal</b></summary>
+  <summary><b>:telescope: 2021 goal</b></summary>
    I am aiming to make a product and opensource it and have a stable MRR.
 </details>
