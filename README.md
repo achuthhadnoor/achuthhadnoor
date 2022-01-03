@@ -1,15 +1,49 @@
+### Hi there :wave: I'm Achuth Hadnoor from India 🇮🇳
+
+### <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> About Me
+
 <p>
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-  <br><br>
   <samp>
-    :wave: Hi! I love making products for developers .
-     <br><br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
-    <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/achuth_hadnoor">Twitter</a>
   </samp>
 </p>
 
-<details>
-  <summary><b>:telescope: 2021 goal</b></summary>
-   I am aiming to make a product and opensource it and have a stable MRR.
-</details>
+
+I love making products for developers .
+
+🔭 I’m currently working on projects for :
+
+- Designers
+
+- Developers
+
+💬 Ask me about :
+Product building, bootstrapping and marketing, 🐧 🍚(If you know what I mean)
+
+🌐 Portfolio : <https://achuth.dev>
+
+👉 I am exclusively working on products that increases productivity and user experience. 🚀
+
+ Reach me at :
+
+- :bird: <https://www.twitter.com/achuth_hadnoor/>
+
+- 👨🏻‍💼 <https://www.linkedin.com/in/achuth-hadnoor/>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=achuthhadnoor.visitor-badge)
+
+[![Achuth's github stats](https://github-readme-stats.vercel.app/api?username=achuthhadnoor)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Here are some ideas to get you started:
+
+- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on ...
+- I’m currently learning 🌱 :
+- 🔭 I’m currently working on ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
+
+
+![](https://komarev.com/ghpvc/?username=achuthhadnoor)
